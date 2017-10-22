@@ -1,5 +1,6 @@
 # react-training
 [![Known Vulnerabilities](https://snyk.io/test/github/araltasher/react-training/badge.svg)](https://snyk.io/test/github/araltasher/react-training)
+
 Source file to tylermcginnis.com's Intor to React course. The app allows you to search top github repositories on selected language. It also contains a battle section, where your can battle two github users according to their followers/repositories/stars e.t.c
 
 check out the final version at:
